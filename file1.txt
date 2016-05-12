@@ -1,4 +1,4 @@
-this is a new file
+change it now and this is a new file
 change on local
 change on remote
 <<<<<<< 784dde67581b310e9f24fecb3b2d534e7baa7757
