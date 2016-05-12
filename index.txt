@@ -5,3 +5,4 @@ third change on local
 remote change for conflict
 fourth change on local - for conflict
 remote change for fetch
+change on local for fetch
