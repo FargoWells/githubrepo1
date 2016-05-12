@@ -1,4 +1,8 @@
 this is a new file
 change on local
 change on remote
+<<<<<<< 784dde67581b310e9f24fecb3b2d534e7baa7757
 change on remote for fetch
+=======
+change on local for fetch
+>>>>>>> commit for fetch
